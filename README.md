@@ -8,7 +8,9 @@ Predict how good a new player will be based on his stats and his
 teams past performance.
 
 #### Models 
-Linear Regression 
+
+Linear Regression
+
 Decision Tree Regression 
+
 AdaBoost Regression 
-Final Result
